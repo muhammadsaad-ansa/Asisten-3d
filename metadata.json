@@ -1,0 +1,6 @@
+{
+  "name": "Kantor AI 3D",
+  "description": "Kantor isometrik 3D untuk agen AI kamu: tiap agen duduk di mejanya, mengetik, menulis laporan, dan bersantai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
